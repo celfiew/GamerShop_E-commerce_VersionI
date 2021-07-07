@@ -335,7 +335,8 @@ textarea{
     display:flex;
     flex-direction: column;
     grid-row-gap: 20px;
-    flex-wrap: wrap
+    flex-wrap: wrap;
+    padding: 6px;
 }
 
 #login{
