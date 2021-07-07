@@ -55,7 +55,7 @@ filas y columnas*/
 }
 
 main{
-    margin-top: 7.5rem;
+    margin-top: 9rem;
     margin-bottom: 9rem;
 }
 
@@ -207,7 +207,7 @@ p.comentario{
 
 /*Espacio del main*/
 .space-main{
-    height: 59.5rem;
+    height: 40rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -336,7 +336,7 @@ textarea{
     flex-direction: column;
     grid-row-gap: 20px;
     flex-wrap: wrap;
-    padding: 6px;
+
 }
 
 #login{
@@ -388,3 +388,86 @@ footer p{
      span#final-text{
         font-size: 0.6rem} 
     }
+
+@media (max-width: 420px){
+    span#final-text{
+        font-size: 0.6rem} 
+    }
+
+@media (max-width: 520px){
+
+    .formato-form{
+        width: 20rem;
+    }
+
+    .title-form {
+         font-size: 2.5rem;
+    }
+    #reset {
+        width: 200px;
+        height: 45px;
+        font-weight: 400;
+        font-size: 18px;
+
+    }
+    #submit {
+        width: 200px;
+        height: 45px;
+        font-weight: 400;
+        font-size: 18px;
+    }
+    #nombre{
+        height: 2.5rem;
+        font-family: 'Karla', sans-serif;
+        font-weight: 400;
+        font-size: 1rem;
+        border-width:medium;
+        text-indent: 10px;
+    }
+    #username{
+        height: 2.5rem;
+        font-family: 'Karla', sans-serif;
+        font-weight: 400;
+        font-size: 1rem;
+        border-width:medium;
+        text-indent: 10px;
+    }
+    #email{
+        height: 2.5rem;
+        font-family: 'Karla', sans-serif;
+        font-weight: 400;
+        font-size: 1rem;
+        text-indent: 10px;
+        border-width: medium;
+    }
+    #password{
+        height: 2.5rem;
+        font-family: 'Karla', sans-serif;
+        font-weight: 400;
+        font-size: 1rem;
+        text-indent: 10px;
+        border-width: medium;
+    }
+    
+    #pais{
+        height: 2.5rem;
+        font-family: 'Karla', sans-serif;
+        font-weight: 400;
+        font-size: 1rem;
+        text-indent: 10px;
+        border-width: medium;
+    
+    }
+    
+    textarea{
+        height: 10rem;
+        border-width: medium;
+        font-size:1rem;
+        text-indent: 10px;
+    }
+
+    main{
+        margin-top: 5rem;
+        margin-bottom: 3rem;
+    }
+}
