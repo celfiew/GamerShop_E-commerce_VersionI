@@ -394,7 +394,7 @@ footer p{
         font-size: 0.6rem} 
     }
 
-@media (max-width: 520px){
+@media (max-width: 700px){
 
     .formato-form{
         width: 20rem;
