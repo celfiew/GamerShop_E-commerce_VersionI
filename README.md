@@ -2,7 +2,7 @@
 
 > A simple main of a Gamer Shoping place. 
 
-Look at the page here [GamerShop](https://pages.github.com/).
+>Look at the page here [GamerShop](https://celfiew.github.io/GamerShop_E-commerce_VersionI/).
 
 ### transition
 ### transition effect.
