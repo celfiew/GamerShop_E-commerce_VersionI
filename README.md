@@ -1,6 +1,5 @@
 # GamerShop_E-commerce_VersionI
 
-## Responsive
 > A simple main of a Gamer Shoping place. 
 
 Look at the page here [GamerShop](https://pages.github.com/).
